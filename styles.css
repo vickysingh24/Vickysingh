@@ -15,3 +15,18 @@
 .visual.boutique .blocks i:nth-child(2),.visual.business .blocks i:nth-child(2){background:#ff3000}
 .visual.boutique .blocks i:last-child,.visual.business .blocks i:last-child{border:0}
 .visual.consultant i{display:block;width:70%;height:10px;background:#000;margin-top:28px}
+.visual.upcoming strong {
+  display: block;
+  margin-top: 38px;
+  font-size: clamp(36px, 5vw, 64px);
+  line-height: 0.9;
+  letter-spacing: -0.06em;
+  font-weight: 900;
+}
+
+.visual.upcoming span {
+  display: block;
+  margin-top: 12px;
+  color: #ff3000;
+  font-weight: 800;
+}
