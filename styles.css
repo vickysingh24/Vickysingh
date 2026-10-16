@@ -30,3 +30,18 @@ a.visual.upcoming strong {
   color: #ff3000;
   font-weight: 800;
 }
+a.visual.upcoming strong {
+  display: block;
+  margin-top: 38px;
+  font-size: clamp(36px, 5vw, 64px);
+  line-height: 0.9;
+  letter-spacing: -0.06em;
+  font-weight: 900;
+}
+
+a.visual.upcoming span {
+  display: block;
+  margin-top: 12px;
+  color: #ff3000;
+  font-weight: 800;
+}
